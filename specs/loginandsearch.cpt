@@ -1,0 +1,22 @@
+Giriş
+# gittidiyor.com açılır ve <email> , <password> ile giriş yapılır
+*Siteye Giriş Yaptık
+*Ana sayfanın açıldığı kontrol edilir
+*Hesabımın üstüne gelir
+*Giriş yap
+*Email <email> bilgilerini giriyoruz
+*Şifre <password> giriyoruz
+*Giriş yap tuşuna basılır
+
+Search
+# arama alanına <text> yazılır ve arama iconuna tıklanır
+*Arayama <text> yazıldı
+*Arama icona tıklandı
+*Cookie kapatılır
+
+
+# Sepete eklenir, sepete gidilir, sepetteki ücret alınır, katalogdaki ücret karşılaştırılır.
+*Ürüne Tıkla
+*Sepete eklenir
+*Sepete gidilir
+*Sayfadaki fiyatıyla sepet fiyatı karşılaştırılır

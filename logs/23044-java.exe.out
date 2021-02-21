@@ -1,0 +1,90 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 516milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 516"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 58522"}
+{"logLevel":"info","message":"Listening on port:58522"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.hoverElement' and 'com.test.selenium.test.PageModelTest.hoverElement'"}
+{"logLevel":"debug","message":"Found Hesabımın üstüne gelir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.IncreaseProductQuantity' and 'com.test.selenium.test.PageModelTest.IncreaseProductQuantity'"}
+{"logLevel":"debug","message":"Found Sepetteki ürün 2 olarak girilir ve kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.clickSecondPageButton' and 'com.test.selenium.test.PageModelTest.clickSecondPageButton'"}
+{"logLevel":"debug","message":"Found 2. sayfa açılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.clickproduct' and 'com.test.selenium.test.PageModelTest.clickproduct'"}
+{"logLevel":"debug","message":"Found 4.ürüne tıklanır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.searchEnterText' and 'com.test.selenium.test.PageModelTest.searchEnterText'"}
+{"logLevel":"debug","message":"Found Arayama {} yazıldı in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.clickLoginEnter' and 'com.test.selenium.test.PageModelTest.clickLoginEnter'"}
+{"logLevel":"debug","message":"Found Giriş yap tuşuna basılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.implementation2' and 'com.test.selenium.test.PageModelTest.implementation2'"}
+{"logLevel":"debug","message":"Found Sepetten sil in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.clickSearch' and 'com.test.selenium.test.PageModelTest.clickSearch'"}
+{"logLevel":"debug","message":"Found Arama icona tıklandı in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.enterEmail' and 'com.test.selenium.test.PageModelTest.enterEmail'"}
+{"logLevel":"debug","message":"Found Email {} bilgilerini giriyoruz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.clickLogin' and 'com.test.selenium.test.PageModelTest.clickLogin'"}
+{"logLevel":"debug","message":"Found Giriş yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.implementation1' and 'com.test.selenium.test.PageModelTest.implementation1'"}
+{"logLevel":"debug","message":"Found Sepete gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.basketCheck' and 'com.test.selenium.test.PageModelTest.basketCheck'"}
+{"logLevel":"debug","message":"Found Sayfadaki fiyatıyla sepet fiyatı karşılaştırılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.before' and 'com.test.selenium.test.PageModelTest.before'"}
+{"logLevel":"debug","message":"Found Siteye Giriş Yaptık in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.elementClick' and 'com.test.selenium.test.PageModelTest.elementClick'"}
+{"logLevel":"debug","message":"Found Ürüne Tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.clickCookieClose' and 'com.test.selenium.test.PageModelTest.clickCookieClose'"}
+{"logLevel":"debug","message":"Found Cookie kapatılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.CheckMainPageIsVisible' and 'com.test.selenium.test.PageModelTest.CheckMainPageIsVisible'"}
+{"logLevel":"debug","message":"Found Ana sayfanın açıldığı kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.enterPassword' and 'com.test.selenium.test.PageModelTest.enterPassword'"}
+{"logLevel":"debug","message":"Found Şifre {} giriyoruz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.test.selenium.test.PageModelTest.clickrecophone' and 'com.test.selenium.test.PageModelTest.clickrecophone'"}
+{"logLevel":"debug","message":"Found Sepete eklenir in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tŞifre {} giriyoruz : public void enterPassword(String password)"}
+{"logLevel":"debug","message":"\tSepetten sil : public void implementation2()"}
+{"logLevel":"debug","message":"\tGiriş yap : public void clickLogin()"}
+{"logLevel":"debug","message":"\tSepetteki ürün 2 olarak girilir ve kontrol edilir : public void IncreaseProductQuantity()"}
+{"logLevel":"debug","message":"\tAna sayfanın açıldığı kontrol edilir : public void CheckMainPageIsVisible()"}
+{"logLevel":"debug","message":"\t4.ürüne tıklanır : public void clickproduct()"}
+{"logLevel":"debug","message":"\tArayama {} yazıldı : public void searchEnterText(String text)"}
+{"logLevel":"debug","message":"\t2. sayfa açılır : public void clickSecondPageButton()"}
+{"logLevel":"debug","message":"\tHesabımın üstüne gelir : public void hoverElement()"}
+{"logLevel":"debug","message":"\tCookie kapatılır : public void clickCookieClose()"}
+{"logLevel":"debug","message":"\tArama icona tıklandı : public void clickSearch()"}
+{"logLevel":"debug","message":"\tSepete eklenir : public void clickrecophone()"}
+{"logLevel":"debug","message":"\tÜrüne Tıkla : public void elementClick()"}
+{"logLevel":"debug","message":"\tEmail {} bilgilerini giriyoruz : public void enterEmail(String email)"}
+{"logLevel":"debug","message":"\tGiriş yap tuşuna basılır : public void clickLoginEnter()"}
+{"logLevel":"debug","message":"\tSiteye Giriş Yaptık : public void before()"}
+{"logLevel":"debug","message":"\tSepete gidilir : public void implementation1()"}
+{"logLevel":"debug","message":"\tSayfadaki fiyatıyla sepet fiyatı karşılaştırılır : public void basketCheck()"}
+Starting ChromeDriver 88.0.4324.27 (6347fe8bf1e48bd0c54d07dc55ca011cf40861c9-refs/branch-heads/4324@{#450}) on port 22053
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Şub 21, 2021 7:12:42 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Siteye Giriş Yaptık' using 'class com.test.selenium.test.PageModelTest.before"}
+{"logLevel":"debug","message":"Executing 'Ana sayfanın açıldığı kontrol edilir' using 'class com.test.selenium.test.PageModelTest.CheckMainPageIsVisible"}
+{"logLevel":"debug","message":"Executing 'Hesabımın üstüne gelir' using 'class com.test.selenium.test.PageModelTest.hoverElement"}
+{"logLevel":"debug","message":"Executing 'Giriş yap' using 'class com.test.selenium.test.PageModelTest.clickLogin"}
+{"logLevel":"debug","message":"Executing 'Email {} bilgilerini giriyoruz' using 'class com.test.selenium.test.PageModelTest.enterEmail"}
+{"logLevel":"debug","message":"Executing 'Şifre {} giriyoruz' using 'class com.test.selenium.test.PageModelTest.enterPassword"}
+{"logLevel":"debug","message":"Executing 'Giriş yap tuşuna basılır' using 'class com.test.selenium.test.PageModelTest.clickLoginEnter"}
+{"logLevel":"debug","message":"Executing 'Arayama {} yazıldı' using 'class com.test.selenium.test.PageModelTest.searchEnterText"}
+{"logLevel":"debug","message":"Executing 'Arama icona tıklandı' using 'class com.test.selenium.test.PageModelTest.clickSearch"}
+{"logLevel":"debug","message":"Executing 'Cookie kapatılır' using 'class com.test.selenium.test.PageModelTest.clickCookieClose"}
+{"logLevel":"debug","message":"Executing '2. sayfa açılır' using 'class com.test.selenium.test.PageModelTest.clickSecondPageButton"}
+{"logLevel":"debug","message":"Executing '4.ürüne tıklanır' using 'class com.test.selenium.test.PageModelTest.clickproduct"}
+{"logLevel":"debug","message":"Executing 'Sepete eklenir' using 'class com.test.selenium.test.PageModelTest.clickrecophone"}
+{"logLevel":"debug","message":"Executing 'Sepete gidilir' using 'class com.test.selenium.test.PageModelTest.implementation1"}
+{"logLevel":"debug","message":"Executing 'Sayfadaki fiyatıyla sepet fiyatı karşılaştırılır' using 'class com.test.selenium.test.PageModelTest.basketCheck"}
+{"logLevel":"debug","message":"Executing 'Sepetteki ürün 2 olarak girilir ve kontrol edilir' using 'class com.test.selenium.test.PageModelTest.IncreaseProductQuantity"}
+{"logLevel":"debug","message":"Executing 'Sepetten sil' using 'class com.test.selenium.test.PageModelTest.implementation2"}
