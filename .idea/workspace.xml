@@ -5,96 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df877adc-d651-4c2d-8eab-654fc41042d5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/specs/loginandsearch.cpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/selenium/constants/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/selenium/pagemodel/PageModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/selenium/test/PageModelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gauge/failures.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jmeter.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/css/open-sans.css" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/css/open-sans.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.svg" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.svg" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/Gauge-Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/Haftanın çok satanları.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/Live Support Scenerio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/LoginAndLogout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/Slider Sağa sola kaydırma.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/close.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/eBay Site Kontrolleri.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/gaugeLogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/images/overlay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/auto-complete.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/js/auto-complete.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/clipboard.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/js/clipboard.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/jquery-3.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/js/jquery-3.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/specs/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/specs/favoriler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/specs/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/html-report/specs/senaryolar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs/mainloginsearch.cpt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs/senaryolar.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/senaryolar.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/selenium/base/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/selenium/base/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/constants/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/ChartPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/CsvProductSave.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/FavoriPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/KategoriKediPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/LiveSupportPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/LogOutPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/ProductFollow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/PuanPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/RegisterPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/SearchPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/SearchPage2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/SliderPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/TurkceKarekterKontrolu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/UrunIade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/WeeklyPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/YildizFirsatlar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/eBayPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/ChartPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/CsvProductSaveTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/FavoriPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/KategoriKediPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/LiveSupportPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/LogOutPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/LoginPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/ProductFollowTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/PuanPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/RegisterPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/SearchPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/SearchPageTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/SliderPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/TrukceKarakterKontroluTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/UrunIadeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/WeeklyPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/YildizFirsatlarTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/eBayPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_driver/UrunBilgisi.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/web_driver/chromedriver.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/team/green/test" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
